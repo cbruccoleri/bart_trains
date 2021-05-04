@@ -1,0 +1,67 @@
+{
+    "?xml": {
+        "@encoding": "utf-8",
+        "@version": "1.0"
+    },
+    "root": {
+        "@id": "1",
+        "date": "05/04/2021",
+        "message": "",
+        "station": [
+            {
+                "abbr": "PLZA",
+                "etd": [
+                    {
+                        "abbreviation": "BERY",
+                        "destination": "Berryessa",
+                        "estimate": [
+                            {
+                                "bikeflag": "1",
+                                "color": "ORANGE",
+                                "delay": "0",
+                                "direction": "South",
+                                "hexcolor": "#ff9933",
+                                "length": "8",
+                                "minutes": "29",
+                                "platform": "2"
+                            }
+                        ],
+                        "limited": "0"
+                    },
+                    {
+                        "abbreviation": "MLBR",
+                        "destination": "Millbrae",
+                        "estimate": [
+                            {
+                                "bikeflag": "1",
+                                "color": "RED",
+                                "delay": "0",
+                                "direction": "South",
+                                "hexcolor": "#ff0000",
+                                "length": "10",
+                                "minutes": "11",
+                                "platform": "2"
+                            },
+                            {
+                                "bikeflag": "1",
+                                "color": "RED",
+                                "delay": "0",
+                                "direction": "South",
+                                "hexcolor": "#ff0000",
+                                "length": "10",
+                                "minutes": "41",
+                                "platform": "2"
+                            }
+                        ],
+                        "limited": "0"
+                    }
+                ],
+                "name": "El Cerrito Plaza"
+            }
+        ],
+        "time": "01:41:46 PM PDT",
+        "uri": {
+            "#cdata-section": "http://api.bart.gov/api/etd.aspx?cmd=etd&orig=PLZA&json=y"
+        }
+    }
+}

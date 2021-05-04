@@ -1,0 +1,9 @@
+# This implementation does use the `requests` module from PyPI, since it is the
+# most commonly used
+# It also assumes the packages in the Python Standard Library, such as JSON.
+#
+# Tested with Python 3.8.5, on Linux Ubuntu 20.4
+
+Required
+    name: requests
+    URL: https://pypi.org/project/requests/

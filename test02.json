@@ -1,0 +1,22 @@
+{
+    "?xml": {
+        "@encoding": "utf-8",
+        "@version": "1.0"
+    },
+    "root": {
+        "@id": "1",
+        "date": "05/04/2021",
+        "message": "",
+        "station": [
+            {
+                "abbr": "PLZA",
+                "etd": [],
+                "name": "El Cerrito Plaza"
+            }
+        ],
+        "time": "01:41:46 PM PDT",
+        "uri": {
+            "#cdata-section": "http://api.bart.gov/api/etd.aspx?cmd=etd&orig=PLZA&json=y"
+        }
+    }
+}
